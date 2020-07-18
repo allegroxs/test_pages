@@ -24,7 +24,7 @@ baseurl: /yyddtt
 #
 
 # 你的博客logo图片URL，建议尺寸不超过300px × 300px
-avatar: #https://raw.githubusercontent.com/FromEndWorld/LOFFER/master/images/logo.png
+avatar: https://github.com/allegroxs/allegroxs.github.io/blob/master/content/28a97f3e6709c93d49bb9e0a9f3df8dcd30054c4.jpg
 
 # 你的favicon（出现在浏览器tab上）图片URL，建议使用较小(64px × 64px)的图片
 favicon: https://raw.githubusercontent.com/FromEndWorld/LOFFER/master/images/favicon.png
@@ -49,13 +49,13 @@ excerpt_separator: <!-- more -->
 
 # 你的社交网络链接，它们会作为图标出现在你的网站页脚中，可选填写
 footer-links: 
-  weibo: frommidworld #请输入你的微博个性域名 https://www.weibo.com/<thispart>
+  weibo: #frommidworld #请输入你的微博个性域名 https://www.weibo.com/<thispart>
   behance: # https://www.behance.net/<>
   dribbble: # https://dribbble.com/<>
-  email: fromendworld@outlook.com 
+  email: ostettin@163.com
   facebook: #https://www.facebook.com/<>
   flickr: #https://www.flickr.com/<>
-  github: FromEndWorld/loffer #https://github.com/<>
+  github: #FromEndWorld/loffer #https://github.com/<>
   instagram: #https://instagram.com/<>
   linkedin: #https://www.linkedin.com/in/<>
   pinterest: #https://www.pinterest.com/<>
